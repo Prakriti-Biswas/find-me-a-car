@@ -1,0 +1,33 @@
+﻿source_type,location,source,status,matches,detail
+dealer,Maple,https://www.mapletoyota.com/new/inventory/Toyota-Corolla_Cross.html,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+dealer,Maple,https://www.mapletoyota.com/new/inventory/Toyota-Corolla_Cross_Hybrid.html,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+dealer,Maple,https://www.mapletoyota.com/used/Toyota-Corolla_Cross.html,matches,3,
+dealer,Maple,https://www.mapletoyota.com/used/Toyota-Corolla_Cross_Hybrid.html,matches,3,
+dealer,Mississauga,https://dixietoyota.com/inventory,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+dealer,Oakville,https://www.oakvilletoyota.ca/en/all-inventory/toyota/corolla%20cross,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+dealer,Richmond Hill,https://www.richmondhilltoyota.com/inventory/all?make=toyota&model=corolla+cross,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+dealer,Toronto,https://www.downtowntoyota.ca/inventory/?model=corolla-cross,failed,0,HTTP Error 403: Forbidden
+dealer,Toronto,https://www.kenshawtoyota.ca/inventory/?model=corolla-cross,failed,0,HTTP Error 403: Forbidden
+dealer,Toronto,https://www.yorkdaletoyota.com/new/inventory/Toyota-Corolla_Cross.html,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+dealer,Toronto,https://www.yorkdaletoyota.com/new/inventory/Toyota-Corolla_Cross_Hybrid.html,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+dealer,Toronto,https://www.yorkdaletoyota.com/used/Toyota-Corolla_Cross.html,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+dealer,Toronto,https://www.yorkdaletoyota.com/used/Toyota-Corolla_Cross_Hybrid.html,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+dealer,Whitby,https://www.whitbytoyota.com/en/all-inventory/toyota/corolla%20cross,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+dealer,Woodbridge,https://www.woodbridgetoyota.ca/new/inventory/Toyota-Corolla_Cross.html,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+dealer,Woodbridge,https://www.woodbridgetoyota.ca/new/inventory/Toyota-Corolla_Cross_Hybrid.html,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+dealer,Woodbridge,https://www.woodbridgetoyota.ca/used/Toyota-Corolla_Cross.html,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+dealer,Woodbridge,https://www.woodbridgetoyota.ca/used/Toyota-Corolla_Cross_Hybrid.html,no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"""Corolla Cross"" ""Hybrid"" ""Ajax"" for sale",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"""Corolla Cross"" ""Hybrid"" ""Brampton"" for sale",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"""Corolla Cross"" ""Hybrid"" ""Etobicoke"" for sale",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"""Corolla Cross"" ""Hybrid"" ""Markham"" for sale",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"""Corolla Cross"" ""Hybrid"" ""Mississauga"" for sale",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"""Corolla Cross"" ""Hybrid"" ""Oakville"" for sale",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"""Corolla Cross"" ""Hybrid"" ""Pickering"" for sale",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"""Corolla Cross"" ""Hybrid"" ""Richmond Hill"" for sale",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"""Corolla Cross"" ""Hybrid"" ""Scarborough"" for sale",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"""Corolla Cross"" ""Hybrid"" ""Toronto"" for sale",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"""Corolla Cross"" ""Hybrid"" ""Vaughan"" for sale",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"""Corolla Cross"" ""Hybrid"" ""Whitby"" for sale",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"site:autotrader.ca ""Corolla Cross Hybrid"" GTA",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
+web,GTA,"site:carpages.ca ""Corolla Cross Hybrid"" Toronto",no_matches_or_unreadable,0,No matching parsable listings; this does not establish zero inventory.
